@@ -19,5 +19,7 @@ Education
 Work Experience
 ======
 * Associate Researcher, Pengcheng Laboratory, 2024 ~ Present
-* Postdoc Fellow/Assistant Researcher, Pengcheng Laboratory
-* Research Associate/Assistant, The Hong Kong University of Science and Technology
+* Assistant Researcher, Pengcheng Laboratory
+* Postdoc Fellow, Pengcheng Laboratory
+* Research Associate, The Hong Kong University of Science and Technology
+* Teaching Assistant/Research Assistant, The Hong Kong University of Science and Technology
