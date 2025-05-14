@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Haofei Wang(王昊飞) is an associate researcher and PhD advisor (博导，副研究员) at Pengcheng Laboratory (PCL). Before joining PCL, he earned his PhD in ECE from [The Hong Kong University of Science and Technology](https://www.ust.hk) (HKUST) and BS in Automation with Chu Kochen Honors from [Zhejiang University](https://www.zju.edu.cn) (ZJU).
+Dr. Haofei Wang（王昊飞） is an associate researcher and PhD advisor （博导，副研究员） at Pengcheng Laboratory (PCL). Before joining PCL, he earned his PhD in ECE from [The Hong Kong University of Science and Technology](https://www.ust.hk) (HKUST) and BS in Automation with Chu Kochen Honors from [Zhejiang University](https://www.zju.edu.cn) (ZJU).
 
 Haofei’s research interests include human-robot interaction, deep learning, LLM and VR/AR.
 
